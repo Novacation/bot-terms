@@ -17,4 +17,4 @@ Os usuários devem respeitar os seguintes termos ao usar o bot:
 Podemos atualizar estes termos a qualquer momento. Recomendamos que revise periodicamente para estar ciente de qualquer mudança.
 
 ## 5. Contato
-Para dúvidas ou problemas, entre em contato pelo discord: [ursskatarina]
+Para dúvidas ou problemas, entre em contato pelo discord: ursskatarina
