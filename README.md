@@ -1,7 +1,7 @@
-# Termos de Uso do [Black Metal]
+# Termos de Uso do Black Metal
 
 ## 1. Uso do Bot
-O bot [Black Metal] é oferecido gratuitamente e pode ser usado em servidores do Discord conforme as diretrizes abaixo.
+O bot Black Metal é oferecido gratuitamente e pode ser usado em servidores do Discord conforme as diretrizes abaixo.
 
 ## 2. Coleta de Dados
 Nosso bot pode coletar e armazenar certas informações para funcionamento adequado, como:
